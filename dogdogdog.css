@@ -1,0 +1,21 @@
+#id1{
+			text-align: center;
+			color:0d106e;
+			text-transform: uppercase;
+			text-decoration: overline;
+			text-decoration: underline;
+			text-shadow: 1px 1px 2px lightblue;
+	}
+.class1{
+			text-align: center;
+			color:233871;
+			text-transform: uppercase;
+			background-color: ffd7a9;
+			text-shadow: 1px 1px 2px lightblue;
+		}
+.class2	{
+			text-align: center;
+			color:0a0048;
+			background-color: ffe2d9;
+			text-shadow: 1px 1px 2px lightblue;
+}
